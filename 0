@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang=”en”>
+    <head>
+        <TITLE> Title </TITLE>
+        <p> meta </p>
+        <link href="https://myoctocat.com/assets/images/base-octocat.svg">
+    </head>
+    <body>
+        <main> Main </main>
+        <header> Header </header>
+        <h1> what? </h1>
+        <p> some text </p>
+        <h2> WHAT AM I SUPPOSED TO DO????? </h2>
+        <h3> I SILL DON'T KNOW WHAT I'M SUPPOSED TO DO!!!!!!!!!!</h3>
+        <section> what is this? </section>
+        <nav> what is this? </nav>
+
+    </body>
+</html>
