@@ -121,7 +121,38 @@ a:active {
 }
 
 /* Fonts */
-.font {
-    font-family: 'Times New Roman', Times, serif;
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
+h2 {
+    color:antiquewhite;
+}
+
+h1, h3 {
+    color: violet;
+}
+
+a[href]{
+    color: red;
+}
+
+header h1 {
+    color: maroon;
+}
+
+header > h1 {
+    font-family: cursive;
+}
+
+h2 ~ h3 {
+    font-family: fantasy;
+}
+
+h3 + h2 {
+    font-family: monospace;
+}
+
+h1[href]{
+    color: blue;
+}
