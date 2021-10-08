@@ -1,0 +1,35 @@
+/* Color */
+#blue-text {
+    color: blue;
+}
+
+/* Background */
+.box {
+    background-color: grey;
+}
+
+/* Absolute units */
+.px {
+    width: 250px;
+}
+
+.cm {
+    width: 20cm;
+}
+
+.mm {
+    width: 100mm;
+}
+
+/* Relative units */
+.vw {
+    width: 20vw;
+  }
+  
+.em {
+    width: 15em;
+}
+
+.rem {
+    font-size: 1rem;
+}
